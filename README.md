@@ -8,13 +8,6 @@ ManageFlow is a Python application designed for easy and efficient management of
 - **Update Quantity**: Increment or decrement the quantity of existing products with a click of a button.
 - **View Inventory**: Browse through the complete inventory with product details including ID, name, brand, quantity, and timestamps for updates and creation.
 
-## Usage
-
-1. **Clone the Repository**:
-
-    ```
-    git clone https://github.com/TheAhsanFarabi/ManageFlow.git
-    ```
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improvement or find any issues, feel free to open an issue or submit a pull request.
