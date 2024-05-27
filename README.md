@@ -15,20 +15,9 @@ ManageFlow is a Python application designed for easy and efficient management of
     ```
     git clone https://github.com/TheAhsanFarabi/ManageFlow.git
     ```
-
-2. **Navigate to the Project Directory**:
-
-    ```
-    cd ManageFlow
-    ```
-
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improvement or find any issues, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
